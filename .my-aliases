@@ -1,0 +1,13 @@
+# Laravel aliases
+alias art="php artisan"
+alias tinker="php php artisan tinker"
+alias migrate="php artisan migrate"
+alias ver="php artisan --version"
+alias t="vendor/bin/phpunit"
+
+# Git aliases
+alias nah="git reset --hard && git clean -df"
+alias gp="git pull"
+alias gc="git commit"
+alias gs="git status"
+alias gaa="git add ."

@@ -1,6 +1,6 @@
 # Laravel aliases
 alias art="php artisan"
-alias tinker="php php artisan tinker"
+alias tinker="php artisan tinker"
 alias migrate="php artisan migrate"
 alias ver="php artisan --version"
 alias t="vendor/bin/phpunit"
